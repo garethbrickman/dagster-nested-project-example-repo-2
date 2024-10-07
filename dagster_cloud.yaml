@@ -3,4 +3,4 @@ locations:
     code_source:
       package_name: orchestration
     build:
-      directory: ./orchestration/orchestration
+      directory: ./orchestration
