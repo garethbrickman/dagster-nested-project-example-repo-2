@@ -1,6 +1,6 @@
 locations:
-  - location­_name: orchestration
-    code­_source:
-      package­_name: orchestration
+  - location_name: orchestration
+    code_source:
+      package_name: orchestration
     build:
       directory: ./orchestration
