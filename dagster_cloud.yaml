@@ -2,3 +2,5 @@ locations:
   - location_name: orchestration
     code_source:
       module_name: orchestration.definitions
+    build:
+      directory: ./orchestration
